@@ -8,3 +8,6 @@
   - **Industry R&D Expect**: Convince us (your industry bosses) that it’s worth your time and money to implement this paper into our company’s pipeline. Choose an appropriate company and product or application.
   - **Hacker**: Implement a small part of the paper or simplified (e.g. 2D instead of 3D) version of the paper. Prepare a demo of your work for the class.
   - **Private Investigator**: Find out background information on one of the paper authors. Where have they worked? What did they study? What previous projects might have led to working on this one? We encourage you to contact the authors, but remember to be courteous, polite and on topic. 
+
+# How to write a document
+- [中文技术文档的写作规范](https://github.com/ruanyf/document-style-guide) 

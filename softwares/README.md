@@ -2,6 +2,31 @@
 
 这里提供本课程中所使用的一些软件的简单介绍和使用说明等。
 
+## GitHub 
+
+本课程要求使用GitHub来管理和维护作业的代码，须设为私有库。
+
+> GitHub Desktop：[官网](https://desktop.github.com/)，[官方文档](https://help.github.com/en/desktop)，[简易说明](Github.md) 
+
+- [廖雪峰 Git 教程](https://www.liaoxuefeng.com/wiki/896043488029600) 
+- [Git 教程 | 菜鸟教程](https://www.runoob.com/git/git-tutorial.html) 
+
+
+## Typora
+
+Typora是一个所见即所得的Markdown格式文本编辑器，支持Windows、macOS和GNU/Linux操作系统，用于浏览和编辑本地版的GitHub的`*.md`文件。
+
+> Typora：[官网](https://www.typora.io/)，[官方文档](http://support.typora.io/) 
+
+### MathJax
+文档中可能包含一些数学公式，GitHub 不支持直接显示数学公式，需要额外设置才能正常显示。
+>
+> 方法如下：
+>
+> - 网页端查看：Google Chrome 浏览器插件 [MathJax](https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima)（需要科学上网 fq），没法科学上网的同学参考 [Crx4Chrome | MathJax](https://www.crx4chrome.com/crx/72309/) 以及 [Chrome 插件离线安装方法](https://chromecj.com/utilities/2015-04/423.html) 
+> - 本地查看：使用 Markdown 编辑器 Typora（[下载链接](https://www.typora.io/windows/typora-setup-x64.exe?)），需要手动打开“**内联公式**”功能（Typora 菜单 -> 偏好设置 -> Markdown -> Markdown 扩展语法 -> 勾选“内联公式”）
+
+
 ## CMake
 
 > [官网](https://cmake.org/)，[视频教程](https://www.bilibili.com/video/av85644125/)，[官方教程](https://cmake.org/cmake/help/latest/guide/tutorial/index.html)，[官方文档](https://cmake.org/documentation/), [简易说明](cmake.md)  
@@ -10,14 +35,6 @@
 
 CMake 是一个跨平台的安装（编译）工具，可以用简单的语句来描述所有平台的安装（编译过程），开发者通过编写一种与平台无关的 CMakeList.txt 文件来定制整个编译流程，然后再根据目标用户的平台进一步生成所需的本地化 Makefile 和工程文件。CMake能够有效地描述这些文件之间的依赖关系以及处理命令，当个别文件改动后仅执行必要的处理，而不必重复整个编译过程，可以大大提高软件开发的效率。
 
-## GitHub 
-
-本课程要求使用GitHub来管理和维护作业的代码，须设为私有库。
-
-> GitHub Desktop：[官网](https://desktop.github.com/)，[官方文档](https://help.github.com/en/desktop)，[简易说明](Github.md) 
-
-## Typora
-
-Typora是一个所见即所得的Markdown格式文本编辑器，支持Windows、macOS和GNU/Linux操作系统，用于浏览和编辑本地版的GitHub的`*.md`文件。
-
-> Typora：[官网](https://www.typora.io/)，[官方文档](http://support.typora.io/) 
+## C++
+- [[菜鸟教程] C 语言教程](https://www.runoob.com/cprogramming/c-tutorial.html) 
+- [[菜鸟教程] C++ 教程](https://www.runoob.com/cplusplus/cpp-tutorial.html) 
