@@ -1,3 +1,6 @@
+# How to write a paper in Latex
+- 最好用的在线Latex编辑器，再也不用安装Latex套件了，方便协作，可免费使用，隆重推荐：[Online LaTeX Editor Overleaf](https://www.overleaf.com?r=74e16ffc&rm=d&rs=b)
+
 # How to do research
 - [本科生搞AI在线崩溃：3个月才跑通GitHub模型，机器学习科研入门太难了吧](https://mp.weixin.qq.com/s/F8pC0g1DMIpP2Uw5TU-GZQ)
 # How to read paper
