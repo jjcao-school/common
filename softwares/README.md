@@ -2,26 +2,14 @@
 
 这里提供本课程中所使用的一些软件的简单介绍和使用说明等。
 
-## GitHub 
-
+## GitHub [->](github.md)
 本课程要求使用GitHub来管理和维护作业的代码，须设为私有库。
->
-> Visual Studio Code等IDE可以满足日常github使用，配合shell command, 不安转github的第三方GUI也可以。
 
-
-- GitHub Desktop：[官网](https://desktop.github.com/)，[官方文档](https://help.github.com/en/desktop)，[简易说明](Github.md) 
-
-- [廖雪峰Git教程](https://www.liaoxuefeng.com/wiki/896043488029600) 
-- [Git菜鸟教程](https://www.runoob.com/git/git-tutorial.html) 
-
-
-## Typora
-
-Typora是一个所见即所得的Markdown格式文本编辑器，支持Windows、macOS和GNU/Linux操作系统，用于浏览和编辑本地版的GitHub的`*.md`文件。
->
-> - Typora：[官网](https://www.typora.io/)，[官方文档](http://support.typora.io/) 
-> - Visual Studio Code等IDE 配合markdown插件，也可实时编辑+显示 md文件
->
+## Markdown language
+> [Markdown Tutorial](https://www.markdowntutorial.com) 
+- Typora是一个所见即所得的Markdown格式文本编辑器，支持Windows、macOS和GNU/Linux操作系统，用于浏览和编辑本地版的GitHub的`*.md`文件。
+    - Typora：[官网](https://www.typora.io/)，[官方文档](http://support.typora.io/) 
+    - Visual Studio Code等IDE 配合markdown插件，也可实时编辑+显示 md文件
 
 ### MathJax
 文档中可能包含一些数学公式，GitHub 不支持直接显示数学公式，需要额外设置才能正常显示。
@@ -41,4 +29,10 @@ Typora是一个所见即所得的Markdown格式文本编辑器，支持Windows�
 CMake 是一个跨平台的安装（编译）工具，可以用简单的语句来描述所有平台的安装（编译过程），开发者通过编写一种与平台无关的 CMakeList.txt 文件来定制整个编译流程，然后再根据目标用户的平台进一步生成所需的本地化 Makefile 和工程文件。CMake能够有效地描述这些文件之间的依赖关系以及处理命令，当个别文件改动后仅执行必要的处理，而不必重复整个编译过程，可以大大提高软件开发的效率。
 
 ## C++
-> [C语言菜鸟教程](https://www.runoob.com/cprogramming/c-tutorial.html), [C++菜鸟教程](https://www.runoob.com/cplusplus/cpp-tutorial.html) 
+> [C语言菜鸟教程](https://www.runoob.com/cprogramming/c-tutorial.html), [C++菜鸟教程](https://www.runoob.com/cplusplus/cpp-tutorial.html), [tutorial](http://www.tutorialspoint.com/cplusplus/index.htm">C++/C) 
+
+<!-- ## Matlab
+[tutorial](http://cn.mathworks.com/help/index.html) -->
+
+## Python
+> [tutorial](http://www.w3cschool.cc/python/python-tutorial.html)
