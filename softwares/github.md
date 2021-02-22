@@ -1,5 +1,6 @@
 # Git
 - 一个面向开源及私有软件项目的托管平台，是一个分布式的版本控制软件，它可以有效、高速地处理各种项目的版本管理。[git - 简明指南](http://rogerdudler.github.io/git-guide/index.zh.html)
+- [Git Overview](https://cs.brown.edu/courses/csci0060/assets/slides/slides12.pdf): A lecture slides on git for a comprehensive overview on what git is!
 <!-- - [廖雪峰Git教程](https://www.liaoxuefeng.com/wiki/896043488029600) 
 - [Git菜鸟教程](https://www.runoob.com/git/git-tutorial.html) -->
 
