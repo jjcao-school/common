@@ -25,6 +25,8 @@
 - 最好用的在线Latex编辑器，再也不用安装Latex套件了，方便协作，可免费使用，隆重推荐：[Online LaTeX Editor Overleaf](https://www.overleaf.com?r=74e16ffc&rm=d&rs=b)
 - [proofread package of Latex](https://ctan.org/pkg/proofread?lang=en), worked in Overleaf. 
 
+## How to write a academic paper
+- [Ivory Tower Writing](https://ivorytowerscribbles.blog/2018/07/04/ivory-tower-writing-1-what-why-and-how/)
 - [曼彻斯特大学的Academic Phrasebank](http://www.phrasebank.manchester.ac.uk/): 提供了学术论文各个部分的写法和常用表达方式.
 
 - [中文技术文档的写作规范](https://github.com/ruanyf/document-style-guide) 
