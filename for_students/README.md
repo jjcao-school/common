@@ -26,6 +26,9 @@
 - [proofread package of Latex](https://ctan.org/pkg/proofread?lang=en), worked in Overleaf. 
 
 ## How to write an academic paper
+- [Alec Jacobson](https://twitter.com/_alecjacobson/status/1353003760809877506)
+- [Dani Lischinski](https://www.cs.huji.ac.il/~danix/slides/SigAsia2011.pdf)
+- [with how to rebuttal](https://www.mattkeeter.com/projects/siggraph/)
 - [Ivory Tower Writing](https://ivorytowerscribbles.blog/2018/07/04/ivory-tower-writing-1-what-why-and-how/)
 - [曼彻斯特大学的Academic Phrasebank](http://www.phrasebank.manchester.ac.uk/): 提供了学术论文各个部分的写法和常用表达方式.
 
