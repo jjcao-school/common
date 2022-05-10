@@ -6,6 +6,8 @@
 <!-- ## Choose research topic -->
 
 ## How to read paper
+- [How to prepare a two minites paper presentation?](./2mins_present.md)
+- 
 - Role-playing (from CSC2521: Seminar in Geometry and Animation, by Prof. Jacobson’s seminar)
   - **SIGGRAPH Reviewer**: Complete a full—critical but not necessarily negative—review of the paper. Answer all questions on the SIGGRAPH Review Form.
   - **Archaeologist**: Determine where this paper sits in the context of previous and subsequent work. Find and report on one older paper cited by the current paper and one newer paper citing this current paper.
