@@ -28,8 +28,8 @@
 - [proofread package of Latex](https://ctan.org/pkg/proofread?lang=en), worked in Overleaf. 
 
 ## How to write a research report
-https://www.questionpro.com/blog/research-reports/
-https://www.adelaide.edu.au/writingcentre/sites/default/files/docs/learningguide-writingaresearchreport.pdf
+- https://www.questionpro.com/blog/research-reports/
+- https://www.adelaide.edu.au/writingcentre/sites/default/files/docs/learningguide-writingaresearchreport.pdf
 
 ## How to write an academic paper
 - [Alec Jacobson](https://twitter.com/_alecjacobson/status/1353003760809877506)
