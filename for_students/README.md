@@ -27,6 +27,10 @@
 - 最好用的在线Latex编辑器，再也不用安装Latex套件了，方便协作，可免费使用，隆重推荐：[Online LaTeX Editor Overleaf](https://www.overleaf.com?r=74e16ffc&rm=d&rs=b)
 - [proofread package of Latex](https://ctan.org/pkg/proofread?lang=en), worked in Overleaf. 
 
+## How to write a research report
+https://www.questionpro.com/blog/research-reports/
+https://www.adelaide.edu.au/writingcentre/sites/default/files/docs/learningguide-writingaresearchreport.pdf
+
 ## How to write an academic paper
 - [Alec Jacobson](https://twitter.com/_alecjacobson/status/1353003760809877506)
 - [Dani Lischinski](https://www.cs.huji.ac.il/~danix/slides/SigAsia2011.pdf)
