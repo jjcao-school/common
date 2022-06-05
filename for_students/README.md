@@ -28,6 +28,7 @@
 - [proofread package of Latex](https://ctan.org/pkg/proofread?lang=en), worked in Overleaf. 
 
 ## How to write a research report
+- 中文介绍 https://www.academicsaviour.com/blog/research-report-zen-me-xie
 - https://www.questionpro.com/blog/research-reports/
 - https://www.adelaide.edu.au/writingcentre/sites/default/files/docs/learningguide-writingaresearchreport.pdf
 
