@@ -1,4 +1,8 @@
 # How to do research
+## Common foundation of our CG and CV in this era
+- CS231n: Deep Learning for Computer Vision, by Feifei Li @ Stanford University, 2022.
+  - The basic parts: [Lecture 1 to 7]
+  - The advance parts: [Lecture 8 to 16]
 
 ## How to search
 [何查找信息和文献？](https://github.com/jjcao/jjcao.github.com/blob/master/doc/HowToSearch.pdf?raw=true)
