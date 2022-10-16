@@ -21,6 +21,9 @@
   - **Private Investigator**: Find out background information on one of the paper authors. Where have they worked? What did they study? What previous projects might have led to working on this one? We encourage you to contact the authors, but remember to be courteous, polite and on topic. 
 - [More info](https://github.com/jjcao/jjcao.github.com/blob/master/doc/How_to_Read_a_Paper.pdf?raw=true)
 
+## How to prepare a PPT?
+https://jjcao.notion.site/How-to-prepare-a-slider-3bc99c9fcba34c67a5e85cfdd1740234
+
 ## How to ask questions
 [How To Ask Questions The Smart Way](http://www.catb.org/esr/faqs/smart-questions.html): Follow these tips to improve the quality and efficiency of the help that you get. You can find some info here. But the most of important is that you can find some key words for further search by yourself!
 
