@@ -5,7 +5,7 @@
   - The advance parts: [Lecture 8 to 16]
 
 ## How to search
-[何查找信息和文献？](https://github.com/jjcao/jjcao.github.com/blob/master/doc/HowToSearch.pdf?raw=true)
+[何查找信息和文献？](https://jjcao.notion.site/How-to-search-b64d1f69e9734f638d4fa174162de46d)
 
 <!-- ## Choose research topic -->
 
